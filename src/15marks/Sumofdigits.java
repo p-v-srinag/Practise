@@ -1,4 +1,4 @@
-/* This is sum of all digits in the given number Question */
+/* This is sum of all digits in the given number Question and it is divisible by 3 or not*/
 import java.util.*;
 class Sumofdigits
 {
